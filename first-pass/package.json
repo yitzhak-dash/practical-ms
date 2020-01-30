@@ -12,15 +12,15 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "body-parser": "^1.19.0",
-    "camelcase-keys": "^6.1.1",
+    "camelcase-keys": "^6.1.2",
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "knex": "^0.20.7",
-    "pg": "^7.17.0",
+    "knex": "^0.20.8",
+    "pg": "^7.18.1",
     "pug": "^2.0.4",
-    "snakecase-keys": "^3.1.1",
-    "uuid": "^3.3.3"
+    "snakecase-keys": "^3.1.2",
+    "uuid": "^3.4.0"
   },
   "devDependencies": {
     "blue-tape": "^1.0.0",
@@ -33,6 +33,6 @@
     "nodemon": "^2.0.2",
     "standart": "^6.1.0",
     "supertest": "^4.0.2",
-    "tape": "^4.12.1"
+    "tape": "^4.13.0"
   }
 }
